@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola a todos! 👋
 
-<!--
-**jrgeorge89/jrgeorge89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Jorge, un apasionado del desarrollo web con más de 8 años de experiencia. Mi enfoque autodidacta y amor por el aprendizaje me han llevado a dominar diversas tecnologías y metodologías en el ámbito del desarrollo de software.
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
+- 🌱 **Autodidacta:** Empecé en el mundo del desarrollo creando un blog de descargas de juegos, lo que despertó mi interés en construir soluciones web.
+- 📋 **Liderazgo y gestión:** Como Scrum Master, lidero equipos para la entrega de proyectos escalables, seguros y a tiempo.
+- 💻 **Tecnologías:** Desarrollo con API REST y SOAP, integración de CRM como HubSpot y construcción de microservicios utilizando Spring Boot.
+- 🖌️ **CMS:** Dominio de Joomla y WordPress para la creación de sitios web atractivos y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experiencia Destacada
+1. Desarrollo de soluciones personalizadas para web.
+2. Liderazgo en proyectos bajo metodologías ágiles.
+3. Creación de sistemas robustos utilizando microservicios y tecnologías modernas.
+
+## 🛠️ Habilidades Técnicas
+- Lenguajes: [añadir aquí tus lenguajes de programación preferidos, como Java, JavaScript, Python, etc.]
+- Frameworks: Spring Boot, [otros frameworks que utilices]
+- CMS: WordPress, Joomla
+- APIs: REST y SOAP
+- CRM: HubSpot
+
+## 🌍 Conecta Conmigo
+- 📫 **Correo Electrónico:** [Añade tu correo electrónico]
+- 💼 **LinkedIn:** [Añade tu enlace a LinkedIn]
+- 🌐 **Portfolio:** [Añade el enlace si tienes uno]
+- 🐦 **Twitter:** [Si tienes Twitter, puedes añadir el enlace aquí]
+
+⚡ _Dato curioso_: ¡Transformé mi pasión por los blogs en una carrera profesional exitosa!
+
+---
+
+Siempre abierto a colaborar en proyectos interesantes, aprender algo nuevo o compartir ideas. ¡No dudes en contactarme!
