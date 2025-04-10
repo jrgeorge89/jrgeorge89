@@ -20,14 +20,6 @@ Soy Jorge, un apasionado del desarrollo web con más de 8 años de experiencia. 
 - APIs: REST y SOAP
 - CRM: HubSpot
 
-## 🌍 Conecta Conmigo
-- 📫 **Correo Electrónico:** [Añade tu correo electrónico]
-- 💼 **LinkedIn:** [Añade tu enlace a LinkedIn]
-- 🌐 **Portfolio:** [Añade el enlace si tienes uno]
-- 🐦 **Twitter:** [Si tienes Twitter, puedes añadir el enlace aquí]
-
-⚡ _Dato curioso_: ¡Transformé mi pasión por los blogs en una carrera profesional exitosa!
-
 ---
 
 Siempre abierto a colaborar en proyectos interesantes, aprender algo nuevo o compartir ideas. ¡No dudes en contactarme!
